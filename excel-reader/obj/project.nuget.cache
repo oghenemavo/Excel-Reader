@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBZSdiUdhsrbTzEK1gS6es4vkWNvyPn/rHMdihuwRqzTzRmy9FdumSceQObHk8uYHJXfywtGRhS30Wv8osXqjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mavi.onogomuho\\Desktop\\dotNet_\\excel-reader\\excel-reader\\excel-reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mavi.onogomuho\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\mavi.onogomuho\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\mavi.onogomuho\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
